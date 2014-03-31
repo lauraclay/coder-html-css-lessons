@@ -1,15 +1,15 @@
-# Google Coder - HTML & CSS Scheme of Work
+# Google Coder: HTML & CSS Scheme of Work
 
 [![](coder.png)](https://www.youtube.com/watch?v=wH24YwdayFg)
 
 
 ##Introduction
 
-[Google Coder](http://googlecreativelab.github.io/coder/) is a free, open source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS and Javascript, right from the web browser.
+[Google Coder](http://googlecreativelab.github.io/coder/) is a free, open-source project that turns a Raspberry Pi into a simple platform that educators and parents can use to teach the basics of building for the web. New coders can craft small projects in HTML, CSS, and Javascript, right from the web browser.
 
 This scheme of work will introduce students to the infrastructure of website development, in particular the concept of web pages (HTML & CSS) and web servers. It is specifically targeted towards KS2/KS3 Computing. This has been developed in harmony with the new Computing curriculum in the UK and is based on the [Google Coder Project - The Perfect Recipe](http://googlecreativelab.github.io/coder-projects/projects/perfect_recipe/).
 
-##Learning outcomes:
+##Learning outcomes
 
 Over the course of six lessons, students will learn:
 
@@ -20,18 +20,18 @@ Over the course of six lessons, students will learn:
 	- Adding CSS style
 	
 
-##Computing Programme of Study Met:
+##Computing programme of study met
 
-**KS2:**
+###KS2:
 
 - Understand computer networks, including the internet; how they can provide multiple services, such as the World Wide Web, and the opportunities they offer for communication and collaboration.
-- Select, use and combine a variety of software (including internet services) on a range of digital devices to design and create a range of programs, systems and content. This will accomplish various goals including collecting, analysing, evaluating and presenting data and information.
+- Select, use and combine a variety of software (including internet services) on a range of digital devices to design and create a range of programs, systems, and content. This will accomplish various goals including collecting, analysing, evaluating, and presenting data and information.
 
-**KS3:**
+###KS3:
 
 - Understand the hardware and software components that make up computer systems, and how they communicate with one another and with other systems.
-- Create, reuse, revise and repurpose digital artefacts for a given audience, with attention to trustworthiness, design and usability.
-- Understand a range of ways to use technology safely, respectfully, responsibly and securely, including protecting the students' online identity and privacy. Recognise inappropriate content, contact and conduct, and know how to report concerns.
+- Create, reuse, revise, and repurpose digital artefacts for a given audience, with attention to trustworthiness, design, and usability.
+- Understand a range of ways to use technology safely, respectfully, responsibly, and securely, including protecting the students' online identity and privacy. Recognise inappropriate content, contact, and conduct, and know how to report concerns.
 
 [National Curriculum Computing Programmes of Study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
@@ -55,4 +55,4 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 
 ##Community
 
-Coder is open source, so everyone can help make it better. You can fix bugs, build new features and help make Coder the simplest way for new coders to learn how to create content for the web. To find out more visit the [Google Coder GitHub Page](https://github.com/googlecreativelab/coder/).
+Coder is open-source, so everyone can help make it better. You can fix bugs, build new features and help make Coder the simplest way for new coders to learn how to create content for the web. To find out more visit the [Google Coder GitHub Page](https://github.com/googlecreativelab/coder/).
