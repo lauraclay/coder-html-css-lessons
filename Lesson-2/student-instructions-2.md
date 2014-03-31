@@ -5,12 +5,12 @@
 The Raspberry Pi is a bare bones computer. It’s not much use on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
 - An SD card. This card contains the Google Coder that can be loaded onto the Raspberry Pi in order for it to be used to create websites. You need to slide the card into the slot with the metal pins facing in towards the Raspberry Pi. The label should be visible when it is inserted.
-- An ethernet cable or wifi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
+- An Ethernet cable or WiFi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
 - A power adaptor. Plug the power adaptor into a socket and then the small USB connector into the Raspberry Pi. When you turn the socket switch on, you should see the Raspberry Pi flash and text should appear on the monitor.
 
-*Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.* 
+**Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.** 
 
-## Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer or laptop to connect to it. You will see that after you plugged in the power cable some lights came on; this indicates that your Raspberry Pi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page from the last lesson by clicking on the project icon.
 
-## Make a New Coder Webpage
+## Make a new Coder webpage
 
 On the main Coder page you will see a grid of boxes with names on them. These are projects (also called apps); some are webpages and some are games. There are a few that come pre-installed on Coder. Last lesson you looked at the 'Hello Coder' project.
 
@@ -43,13 +43,13 @@ On the main Coder page you will see a grid of boxes with names on them. These ar
 
 	![](new-page.png)
 	
-## Project Settings
+## Project settings
 
 You can change the colour that you have used for your new project, and even add your name so that you know it is your work. To do this, click on the icon of a cog that represents **settings** next to the **preview** eye icon. Then add your name, and a new colour for your project icon should you wish.
 
 ![](project-settings.png)
 
-## Headings & Titles
+## Headings & titles
 
 All Coder projects start with some code already in them. For example, lines that begin with code with pointed brackets like `<word>` are called tags.
 
@@ -64,7 +64,7 @@ Tags are the bits of HTML that define the structure and content of a site; they 
 3. Save your changes by clicking on the **Save** button at the bottom of the screen and take a look at the preview window. The larger heading text has now changed; that is because you changed the text inside the tag. 
 
 
-## Other Ways to Display Text
+## Other ways to display text
 
 Titles are important, but you will want to have different styles of text on your review webpage. In this section we will look at two other ways to display text.
 
@@ -98,7 +98,7 @@ Titles are important, but you will want to have different styles of text on your
 
 6. Don't forget to save and preview your page to see what it looks like.
 
-## Horizontal Line
+## Horizontal line
 
 It is always nice to underline headings on a page to separate them from the body of text. You can do this with a simple tag!
 
@@ -106,6 +106,6 @@ Underneath your main heading using the `<h1>` tag type:
 
 `<hr />`
 
-HR stands for “Horizontal Rule” and it’s an HTML element designed to divide content on a page.
+HR stands for 'Horizontal Rule' and it’s an HTML element designed to divide content on a page.
 
 ![](final.png)
