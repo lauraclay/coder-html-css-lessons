@@ -1,24 +1,24 @@
-#Lesson 1 - Websites & Webservers
+#Lesson 1: Websites & Webservers
 
 ##Introduction
 
-Google Coder allows students to create simple, fun and subtly educational web content that can all be made with Coder and Raspberry Pi. It’s free software that turns a Raspberry Pi into a simple, tiny, personal web server and web-based development environment; just what you need for crafting HTML, CSS and Javascript while you’re learning to code.
+Google Coder allows students to create simple, fun, and subtly educational web content that can all be made with Coder and Raspberry Pi. It’s free software that turns a Raspberry Pi into a simple, tiny, personal web server and web-based development environment; just what you need for crafting HTML, CSS, and Javascript while you’re learning to code.
 
 Hopefully you’ve already downloaded and installed Coder for Raspberry Pi from the offical Google Coder website. If you haven’t (or aren’t sure what Coder is) you can read about it here: http://goo.gl/coder. 
 
-## Learning Objectives
+## Learning objectives
 
 - Know how websites are accessed on the World Wide Web
 - Understand the basic functions of a webserver
 - Be able to set up and use a Raspberry Pi as a webserver with Google Coder
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students are able to:
 
-- Know how to plug the components of a Raspberry Pi together
-- Access their Coder webserver, and the pages preinstalled on it, with a web browser
-- Explain how websites are accessed on the World Wide Web
+- Know how to plug the components of a Raspberry Pi together.
+- Access their Coder webserver, and the pages preinstalled on it, with a web browser.
+- Explain how websites are accessed on the World Wide Web.
 
 ###Most students are able to:
 
@@ -29,7 +29,7 @@ Hopefully you’ve already downloaded and installed Coder for Raspberry Pi from 
 
 - Explain the importance of setting a password on a webserver
 
-## Lesson Summary
+## Lesson summary
 
 - An introduction to websites and webservers
 - A demonstration of how a Raspberry Pi can be used as a webserver to host websites using Google Coder
@@ -37,11 +37,12 @@ Hopefully you’ve already downloaded and installed Coder for Raspberry Pi from 
 - Starting and editing a Coder app
 
 ## Starter
+
 Have a demonstration Raspberry Pi already connected and Google Coder software running. Hold up a Raspberry Pi board and ask the students what they think it is. Explain that it’s actually a computer and that in the coming lessons they’re going to do something special with it. Instead of running apps and games other people have created for them, they’re going to learn to create and host websites on it.
 
 Explain to students the concept of a webserver and how websites are created, stored and accessed on the World Wide Web.
 
-## Main Development
+## Main development
 
 1. Demonstrate to the class how to connect all the Raspberry Pi components together in the correct order and how to boot it. While they are connecting the components, ask the class to name and describe each one. An alternative demonstration would be to leave out the memory card and attempt to boot the Pi, which will fail. You can then describe the memory card as something that contains instructions to tell the Raspberry Pi how to start.
 
