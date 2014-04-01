@@ -1,16 +1,16 @@
-# Student Instructions - Adding Some Style
+# Student Instructions: Adding Some Style
 
 ## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a bare bones computer. It’s not much use on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
 - An SD card. This card contains the Google Coder that can be loaded onto the Raspberry Pi in order for it to be used to create websites. You need to slide the card into the slot with the metal pins facing in towards the Raspberry Pi. The label should be visible when it is inserted.
-- An ethernet cable or wifi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
+- An Ethernet cable or WiFi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
 - A power adaptor. Plug the power adaptor into a socket and then the small USB connector into the Raspberry Pi. When you turn the socket switch on, you should see the Raspberry Pi flash and text should appear on the monitor.
 
-*Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.*
+**Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.**
 
-## Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer or laptop to connect to it. You will see that after you plugged in the power cable some lights came on; this indicates that your Raspberry Pi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page from the last lesson by clicking on the project icon.
 
-## Adding Style using CSS
+## Adding style using CSS
 
 So far you have been using HTML to create your webpage. This has enabled you to add content like text and images to it. By now, you'll be wanting to make it look much cooler with colour and different fonts.
 
@@ -35,7 +35,7 @@ The text on your website has had the default font applied to it which is a bit b
 
 ![](CSS-panel.png)
 
-*CSS stands for “Cascading Style Sheets.”* When you click on the panel you will see the following code:
+**CSS stands for “Cascading Style Sheets.”** When you click on the panel you will see the following code:
 
 ```css
 .pagecontent {
@@ -65,7 +65,7 @@ CSS looks different to the HTML you have used so far in your project. They use c
 	}
 	```
 
-## Get Funky with Fonts
+## Get funky with fonts
 
 Font choice is very important when creating digital content like a webpage. You need to consider your audience. Easy to read fonts are better to use if you have text you would like everyone to be able to read. Crazy artistic fonts are useful to make headings and bits of text stand out. Let's begin by making `<h1>` headings feel like a real headline.
 
@@ -102,7 +102,7 @@ Font choice is very important when creating digital content like a webpage. You 
 	
 8. Save the code and take a look at it in the preview window. The title should be big and bold now, with a little more space around it. 
 
-	*Note: 'px' is used to specify size in screen pixels, but 'em' is used to measure things based on the size of the font. '2em' would make the line-height 2 times the size of the font.* 
+	**Note: 'px' is used to specify size in screen pixels, but 'em' is used to measure things based on the size of the font. '2em' would make the line-height 2 times the size of the font.** 
 	
 	![](fonts.png)
 	
@@ -111,7 +111,7 @@ Font choice is very important when creating digital content like a webpage. You 
 10. Change the size and styles of the fonts for `<h2>` and `<p>` text too!
 
 	
-## Other Fun Things to do with Fonts
+## Other fun things to do with fonts
 
 You can use CSS to apply all sorts of fun styles. For example, why not make the text look a little blurry like this...
 
