@@ -1,16 +1,16 @@
-# Lesson 6 - Feedback & Evaluation
+# Lesson 6: Feedback & Evaluation
 
 ##Introduction
 
-In this lesson, students will reflect on their webpage design and that of their peers for a given audience, with attention to trustworthiness, design and usability. This is an important part of creating any digital artefact in computing and it can be overlooked. 
+In this lesson students will reflect on their webpage design and that of their peers for a given audience, with attention to trustworthiness, design, and usability. This is an important part of creating any digital artefact in computing and it can be overlooked. 
 
-## Learning Objectives
+## Learning objectives
 
 - Understand what makes a good webpage design
 - Be able to apply feedback from others to their webpage design in order to improve it
 - Evaluate a webpage design with given criteria
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students are able to:
 
@@ -24,10 +24,11 @@ In this lesson, students will reflect on their webpage design and that of their 
 
 ###Some students are able to:
 
-- Explain the good and bad points about their webpage design, with attention to trustworthiness, design and usability
+- Explain the good and bad points about their webpage design, with attention to trustworthiness, design, and usability
 
 
-## Lesson Summary
+## Lesson summary
+
 - Class discussion on reviewing website design
 - Setup of Raspberry Pi Google Coder webservers
 - Peer assessment against criteria
@@ -47,17 +48,18 @@ For homework in the previous lesson, students were asked to review a website of 
 
 Select students to feedback their reviews to the rest of the class. Draw out from these reviews evaluation criteria that students identified as being important, and display them on the board. Discuss what makes a good webpage design.
 
-## Main Development
+## Main development
 
-1. Ask students to connect their Raspberry Pi equipment together and boot their Google Coder servers, then log in and open their webpages that they have been working on. 
+1. Ask students to connect their Raspberry Pi equipment together and boot their Google Coder servers, then log in and open the webpages that they have been working on. 
 
-2. Next ask students to swap seats with a partner. Using the critera generated at the start of the lesson, students should review their partner's webpage, giving relevant helpful suggestions for improvement. Afterwards, students should return to their seats, read the feedback carefully and make one of the suggested improvements to their webpage. A note of the improvement could be made on the student's blog or e-portfolio if they have one.
+2. Next ask students to swap seats with a partner. Using the criteria generated at the start of the lesson, students should review their partner's webpage, giving relevant helpful suggestions for improvement. Afterwards, students should return to their seats, read the feedback carefully and make one of the suggested improvements to their webpage. A note of the improvement could be made on the student's blog or e-portfolio if they have one.
 
-3. Using the same criteria, students should then self-evaluate their webpage and make any impovements that they see fit. A note of the improvements could be added to a blog or e-portfolio to record the changes.
+3. Using the same criteria, students should then self-evaluate their webpage and make any improvements that they see fit. A note of the improvements could be added to a blog or e-portfolio to record the changes.
 
 ## Plenary
 
 Select students to explain the journey their website design took during this lesson: 
+
 	- What did the webpage look like at the start of the lesson? 
 	- What improvements were suggested by others? 
 	- What changed as a result of the feedback?
