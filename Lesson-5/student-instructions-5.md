@@ -1,16 +1,16 @@
-# Student Instructions - Colour
+# Student Instructions: Colour
 
 ## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a bare bones computer. It’s not much use on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
 - An SD card. This card contains the Google Coder that can be loaded onto the Raspberry Pi in order for it to be used to create websites. You need to slide the card into the slot with the metal pins facing in towards the Raspberry Pi. The label should be visible when it is inserted.
-- An ethernet cable or wifi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
+- An Ethernet cable or WiFi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
 - A power adaptor. Plug the power adaptor into a socket and then the small USB connector into the Raspberry Pi. When you turn the socket switch on, you should see the Raspberry Pi flash and text should appear on the monitor.
 
-*Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.*
+**Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.**
 
-## Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer or laptop to connect to it. You will see that after you plugged in the power cable some lights came on; this indicates that your Raspberry Pi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page from the last lesson by clicking on the project icon.
 
-## A Splash of Colour
+## A splash of colour
 
 In the last lesson you started to add some style to your webpage using CSS, concentrating on styles of fonts and changing their attributes like size and weight. This lesson will build on the CSS you have already learned to change the colours of different elements of your webpage.
 
@@ -35,7 +35,7 @@ Sometimes it can be difficult to know what colours to use that complement each o
 
 ![](colour.jpg)
 
-## Adding Colours in CSS
+## Adding colours in CSS
 
 All the text used on your webpage is a default black colour. You can give each type of text a colour in the **CSS panel**. 
 
@@ -52,7 +52,7 @@ All the text used on your webpage is a default black colour. You can give each t
     	color: magenta;
 	}
 	```
-	*Note: You will need to use the American spelling of 'colour' in your code for it to work!*
+	**Note: You will need to use the American spelling of 'colour' in your code for it to work!**
 
 4. Now save your changes and preview what they look like using the preview button. Was it the colour that you were expecting to see? What happens if you replace `magenta` with `blue`? 
 
@@ -78,7 +78,7 @@ All the text used on your webpage is a default black colour. You can give each t
 
 5. Change the colours of all of your text styles, using hex codes from the colour scheme designer webpage you used at the start of the lesson. Hover your mouse over a colour you like and it will give you the hex value for it.
 
-## Changing the Background Colour
+## Changing the background colour
 
 Text is not the only element of the webpage that you may wish to choose a colour for. Currently the background is a default white colour. Let's change that by adding a style.
 
@@ -97,7 +97,7 @@ Text is not the only element of the webpage that you may wish to choose a colour
 
 	![](background-colour.png)
 
-## Background Image
+## Background image
 
 Instead of using one colour for the background, you could use an image instead. To do this you will need to find an image that you want to use, save it somewhere on your computer and then upload it to Coder using the Media folder. You did this before in lesson 3.
 
