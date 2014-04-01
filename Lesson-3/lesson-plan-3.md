@@ -1,4 +1,4 @@
-# Lesson 3 - Adding Images and Other Media
+# Lesson 3: Adding Images and Other Media
 
 ##Introduction
 
@@ -6,14 +6,14 @@ Modern webpages include more than just text; many people use image search engine
 
 In this lesson students will be introduced to the concepts of copyright and Creative Commons, and how using other people's work without attributing them could cause legal problems. They will also learn HTML code to add images and videos to their webpages in Google Coder.
 
-## Learning Objectives
+## Learning objectives
 
-- Know how to search for appropriate images online and upload them to Google Coder on the Raspberry Pi
-- Understand who owns creative content online and how it can be shared legally
-- Be able to write HTML tags to add media to webpages and resize them
+- Know how to search for appropriate images online and upload them to Google Coder on the Raspberry Pi.
+- Understand who owns creative content online and how it can be shared legally.
+- Be able to write HTML tags to add media to webpages and resize them.
 
 
-## Learning Outcomes
+## Learning outcomes
 
 ###All students are able to:
 
@@ -33,12 +33,12 @@ In this lesson students will be introduced to the concepts of copyright and Crea
 
 
 
-## Lesson Summary
+## Lesson summary
 
-- A teacher-led discussion on copyright and Creative Commons
-- A demonstration of how to add images and videos in Google Coder and the associated HTML tags
-- A demonstration on how to add code to resize images
-- Improving webpages with media and text
+- A teacher-led discussion on copyright and Creative Commons.
+- A demonstration of how to add images and videos in Google Coder, and the associated HTML tags.
+- A demonstration on how to add code to resize images.
+- Improving webpages with media and text.
 
 
 ## Starter
@@ -48,11 +48,11 @@ Using the results of the homework task, ask students to explain what images they
 Discuss the idea of who owns a image on the internet, before explaining the idea of 'Creative Commons'. Ask students to reflect on the images they found, which they will use on their webpage in today's lesson. Show students the [Sharing Creative Works](http://wiki.creativecommons.org/Sharing_Creative_Works) presentation to explain how copyright could affect their work.
 
 
-## Main Development
+## Main development
 
 1. Remind the class how to connect their Raspberry Pi equipment together and boot their Google Coder servers, ensuring that students are allocated the correct SD card that they used in the previous lesson. Ensure that they can all log in. Students can use the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-3/student-instructions-3.md) as a guide to remind them of the steps.
 
-2. Demonstrate to the students how to upload an image to Google Coder from a client computer, and how to add the HTML tag to the webpage in order for it to be seen. Then explain how images can be resized, for example `<img src="/static/apps/raspberry_pi/media/raspberry_pi_pcb.png" height="400px" width="700px" />`
+2. Demonstrate to the students how to upload an image to Google Coder from a client computer, and how to add the HTML tag to the webpage in order for it to be seen. Then explain how images can be resized, for example `<img src="/static/apps/raspberry_pi/media/raspberry_pi_pcb.png" height="400px" width="700px" />`.
 
 3. Allow students time to try this a number of times for themselves using the [student instructions](https://github.com/raspberrypilearning/coder-html-css-lessons/blob/master/Lesson-3/student-instructions-3.md) for this lesson.
 
