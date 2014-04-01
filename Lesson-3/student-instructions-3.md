@@ -1,16 +1,16 @@
-# Student Instructions - Images & Videos
+# Student Instructions: Images & Videos
 
 ## Setting up your Raspberry Pi using Google Coder
 
 The Raspberry Pi is a bare bones computer. It’s not much use on its own. In order to use it as a webserver and create websites on it, we need to connect a number of things to it:
 
 - An SD card. This card contains the Google Coder that can be loaded onto the Raspberry Pi in order for it to be used to create websites. You need to slide the card into the slot with the metal pins facing in towards the Raspberry Pi. The label should be visible when it is inserted.
-- An ethernet cable or wifi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
+- An Ethernet cable or WiFi adaptor. This will allow you to connect the Raspberry Pi to a local network to host your website projects on.
 - A power adaptor. Plug the power adaptor into a socket and then the small USB connector into the Raspberry Pi. When you turn the socket switch on, you should see the Raspberry Pi flash and text should appear on the monitor.
 
-*Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.*
+**Note: A monitor, keyboard and mouse are not necessary, as you will connect to the Raspberry Pi from an internet browser on a different computer on the network.**
 
-## Connect to your Raspberry Pi Coder Server
+## Connect to your Raspberry Pi Coder server
 
 Now you have connected your Raspberry Pi to the local network you can use a computer or laptop to connect to it. You will see that after you plugged in the power cable some lights came on; this indicates that your Raspberry Pi Coder server is booting up. 
 
@@ -27,7 +27,7 @@ Now you have connected your Raspberry Pi to the local network you can use a comp
 
 4. Load your project page from the last lesson by clicking on the project icon.
 
-## Adding an Image
+## Adding an image
 
 Currently, your webpage has some text written using different styles. You can make it more interesting by adding some pictures of the item you are reviewing.
 
@@ -64,7 +64,7 @@ Currently, your webpage has some text written using different styles. You can ma
 	Try adding height and width attributes to your `<img />` tag. See what happens when you only use either the height or width attribute. Did the image get squashed or did it stretch evenly? Play around with different measurements until you like the way it looks on the page.
 
 
-## Embedding Videos
+## Embedding videos
 
 Images and text are the main focus of many websites. Nowadays, video content is becoming more important. If you have access to a video streaming site like YouTube or Vimeo, then why not embed a video on your webpage too?
 
